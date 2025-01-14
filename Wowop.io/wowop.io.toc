@@ -1,10 +1,19 @@
-## Interface: 100205
-## Title: wowop.io
-## Notes: WoWOP.io
-## Version: 1.0.0
-## Author: WoWOP.io
-## SavedVariables: WOWOPDB
+## Interface: 110007
+## Title: WoWOP.io
+## Notes: WoWOP.io - Improve your Mythic+ gameplay
+## Author: Maxxpower
+## Version: 1.0
 
-# Core files
-database.lua
-wowop.io.lua 
+Localization\enUS.lua
+Localization\zhCN.lua
+Localization\zhTW.lua
+
+database_EU.lua
+database_US.lua
+database_CN.lua
+database_KR.lua
+database_TW.lua
+database_dungeons.lua
+death_analysis.lua
+wowop.io.lua
+guide.lua 
